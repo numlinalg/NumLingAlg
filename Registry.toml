@@ -1,0 +1,6 @@
+name = "NumLinAlg"
+uuid = "3f17a822-8c89-415e-927c-c51e25630e14"
+repo = "git@github.com:numlinalg/NumLingAlg.git"
+description = "Local registry for numlinalg organization packages."
+
+[packages]
