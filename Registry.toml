@@ -4,3 +4,4 @@ repo = "git@github.com:numlinalg/NumLingAlg.git"
 description = "Local registry for numlinalg organization packages."
 
 [packages]
+da1d211a-c3bc-43b2-b5d0-ce83f16a0f3a = { name = "RandLinearAlgebra", path = "R/RandLinearAlgebra" }
